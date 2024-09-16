@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "660defaf12097a7c23846d3f"
+  },
+  "tag": "office",
+  "products": [
+    {
+      "pid": "CL36908",
+      "buys": 200
+    },
+    {
+      "pid": "EL22691",
+      "buys": 100
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66393ea3b7753078d47d2718"
+  },
+  "tag": "sports",
+  "products": [
+    {
+      "pid": "HK23308",
+      "buys": 400
+    },
+    {
+      "pid": "FO13322",
+      "buys": 300
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66393ff4b7753078d47d2719"
+  },
+  "tag": "food",
+  "products": [
+    {
+      "pid": "HK11569",
+      "buys": 250
+    },
+    {
+      "pid": "FG90112",
+      "buys": 200
+    },
+    {
+      "pid": "FG50326",
+      "buys": 150
+    }
+  ]
+}]

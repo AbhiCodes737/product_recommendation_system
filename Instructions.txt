@@ -1,0 +1,15 @@
+BACKEND:
+i) Open the backend folder in VS Code (or any other editor)
+ii) Execute command "pip install flask pandas sklearn networkx os cryptography pymongo matplotlib random flask_cors"
+iii) In a new terminal, type "python run.py"
+
+FRONDEND:
+i) Open the ecommerce folder in VS Code (or any other editor)
+ii) Execute command "npm install"
+iii) In a new terminal, type "npm run dev"
+iv) Call the POST api - http://127.0.0.1:8080/encrypt
+
+DATABASE:
+i) Install MongoDB Compass
+ii) Create a new database called ecommerce
+ii) Load the csv files in collections folder as separate collections in the database

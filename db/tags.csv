@@ -1,0 +1,4 @@
+_id,tag,products[0].pid,products[1].pid,products[2].pid,products[0].buys,products[1].buys,products[2].buys
+660defaf12097a7c23846d3f,office,CL36908,EL22691,,200,100,
+66393ea3b7753078d47d2718,sports,HK23308,FO13322,,400,300,
+66393ff4b7753078d47d2719,food,HK11569,FG90112,FG50326,250,200,150
